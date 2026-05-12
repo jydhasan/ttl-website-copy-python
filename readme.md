@@ -1,4 +1,4 @@
-```markdown
+
 # TLL.com.bd - Offline Website Mirror
 
 এই প্রজেক্টটি https://tll.com.bd/ ওয়েবসাইটের পুরো কপি লোকালভাবে ডাউনলোড করে অফলাইনে চালানোর জন্য তৈরি করা হয়েছে।
@@ -21,7 +21,7 @@
 
 ```bash
 pip install requests beautifulsoup4 lxml
-```
+
 
 ## ব্যবহারের নিয়ম (How to Use)
 
